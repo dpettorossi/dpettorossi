@@ -1,0 +1,8 @@
+- 👋🏾👋🏾👋🏾 Hello, this is Diego. Welcome to my portfolio.
+- 🎓🎓🎓 I just graduated from UT San Antonio with MSc in Data Analytics ---> I funded 100% of my studies through athletic scholarships
+- 👨🏾‍🔧👨🏾‍🔧👨🏾‍🔧 I worked as Data Analyst for 3+ years,in the sports industry and innovation sector
+- 🎯🎯🎯 I'm looking for an expand my experience across different domains, helping organizations clean, structure, visualize and interpret their data
+- 🛠🛠🛠 I'm fluent in SQL, Python, R, SAS
+- 👨🏾‍💻👨🏾‍💻👨🏾‍💻 The softwares I use include Tableau, SAS, Jupyter Notebook, RStudiow Oracle SQL dev
+- 🏋🏾‍♂️🏋🏾‍♂️🏋🏾‍♂️ During my spare time I'm a track and field sprinter of the National Team, representing Italy 🇮🇹 on the world 🌎 stage.
+- 📫 You can reach me out at diego.pettorossi@live.it
